@@ -8,6 +8,6 @@ Dimensionality reduction, or dimension reduction, is the transformation of data 
 
 now we want to reduce dimension with kernel PCA, use SVC model and check the result.
 
->>> 60000 features ---> 100 features
+>>> 60814 features ---> 100 features
 
 ### Result = accuracy : 0.84!!
