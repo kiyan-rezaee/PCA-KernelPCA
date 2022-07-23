@@ -7,3 +7,7 @@ Dimensionality reduction, or dimension reduction, is the transformation of data 
 ### our Dataset consists of Persian news in 10 categories. Formerly we created SVC model on this dataset and we got 0.83 accuracy. check it [here](https://github.com/kiyan-rezaee/Persian-News-Classificaion)
 
 now we want to reduce dimension with kernel PCA, use SVC model and check the result.
+
+>>> 60000 features ---> 100 features
+
+### Result = accuracy : 0.84!!
